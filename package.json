@@ -1,6 +1,6 @@
 {
   "name": "bignum-dec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pure js decrement for big numbers",
   "main": "index.es5.js",
   "scripts": {
