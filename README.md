@@ -19,6 +19,10 @@ import dec from 'bignum-dec';
 dec('420000000000000000000000'); // '419999999999999999999999'
 ```
 
+## Related
+
+* [bignum-inc](https://github.com/iamstarkov/bignum-inc) —  pure js increment for big numbers
+
 ## License
 
 MIT © [Vladimir Starkov](https://iamstarkov.com)
